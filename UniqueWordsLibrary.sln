@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueWordsLibrary", "UniqueWordsLibrary\UniqueWordsLibrary.csproj", "{4F2189F0-A439-494A-9525-5F38FCA113C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueWordsLibraryTests", "UniqueWordsLibraryTests\UniqueWordsLibraryTests.csproj", "{D42F265D-8AA4-4294-9000-0C27FF0DACC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F2189F0-A439-494A-9525-5F38FCA113C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2189F0-A439-494A-9525-5F38FCA113C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2189F0-A439-494A-9525-5F38FCA113C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2189F0-A439-494A-9525-5F38FCA113C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D42F265D-8AA4-4294-9000-0C27FF0DACC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42F265D-8AA4-4294-9000-0C27FF0DACC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42F265D-8AA4-4294-9000-0C27FF0DACC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42F265D-8AA4-4294-9000-0C27FF0DACC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63FA92A0-3765-461B-94F3-E3A3A0EA8EB5}
+	EndGlobalSection
+EndGlobal
